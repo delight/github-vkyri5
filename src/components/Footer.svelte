@@ -7,7 +7,7 @@
     <small>🚀 Built with Astro</small>
 </footer>
 
-<style>
+<style lang="scss">
     footer {
         text-align: center;
         padding: 8rem 2rem 4rem;

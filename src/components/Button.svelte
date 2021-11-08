@@ -1,6 +1,6 @@
 <span><slot /></span>
 
-<style>
+<style lang="scss">
     span {
         display: inline-block;
         border: 3px solid currentColor;

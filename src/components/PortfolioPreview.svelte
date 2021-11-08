@@ -22,7 +22,7 @@
     </div>
 </div>
 
-<style >
+<style lang="scss">
     .card {
         position: relative;
         color: var(--t-bg);
